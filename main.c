@@ -2,6 +2,6 @@
 
 int main(){
     char text = "hellogit";
-    printf("heelo Git.\n");
+    printf("hello Git.\n");
     return 0 ;
 }
